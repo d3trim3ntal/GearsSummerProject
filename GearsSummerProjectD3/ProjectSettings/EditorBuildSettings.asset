@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/GSTitleScreen.unity
+    guid: 44d1fe58e4a3a84438052eca2dd24c2f
+  - enabled: 1
+    path: Assets/Scenes/SparrowWorld.unity
+    guid: 7901c11c550b963428c34fac88f78c82
   m_configObjects: {}
